@@ -1,0 +1,194 @@
+.animationscss {
+	display: inline-block;
+}
+
+/*--------------------------CLASSES-------------------------*/
+
+/*Logo rotation*/
+
+.rotate-scale-up {
+	animation: rotate-scale-up 0.65s linear both;
+}
+
+/*Logo rotation end*/
+
+
+/*Text shadow left*/
+
+.text-shadow-pop-left:hover {
+	animation: text-shadow-pop-left 0.6s both;
+}
+
+/*Text shadow left end*/
+
+
+
+/*Navigation overline/underline*/
+
+
+.overline-expand {
+	position: relative;
+}
+
+
+.overline-expand::after {
+	animation: underline-expand-back 2s forwards;
+	content: "";
+	height: 5px;
+	background-color: #935d8c;
+	position: absolute;
+	top: 0;
+	right: 0;
+	
+}
+
+.overline-expand:hover::after {
+	animation: underline-expand 2s forwards;
+}
+
+
+
+.underline-expand {
+	position: relative;
+}
+
+
+.underline-expand::before {
+	animation: underline-expand-back 2s forwards;
+	content: "";
+	height: 5px;
+	background-color: #935d8c;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	
+}
+
+.underline-expand:hover::before {
+	animation: underline-expand 2s forwards;
+}
+
+/*Navigation overline/underline end*/
+
+
+/*Picture blurout*/
+
+.text-blur-out:active {
+	animation: text-blur-out 1.2s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+}
+
+/*Picture blurout end*/
+
+
+
+/*Picture rotation*/
+
+.rotate-in-center:active {
+	animation: rotate-in-center 1.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
+
+/*Picture rotation end*/
+
+
+
+
+
+
+/*-----------------------------------CLASSES END----------------------------*/
+
+
+
+
+
+
+
+/*-------KEYFRAMES--------*/
+
+/*Logo rotation*/
+
+@keyframes rotate-scale-up {
+  0% {
+    transform: scale(1) rotateZ(0);
+  }
+  50% {
+    transform: scale(2) rotateZ(180deg);
+  }
+  100% {
+    transform: scale(1) rotateZ(360deg);
+  }
+}
+
+/*Logo rotation end*/
+
+
+/*Text shadow left*/
+
+@keyframes text-shadow-pop-left {
+  0% {
+    text-shadow: 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555, 0 0 #555555;
+    transform: translateX(0);
+  }
+  100% {
+    text-shadow: -1px 0 #555555, -2px 0 #555555, -3px 0 #555555, -4px 0 #555555, -5px 0 #555555, -6px 0 #555555, -7px 0 #555555, -8px 0 #555555;
+    transform: translateX(8px);
+  }
+}
+
+/*Text shadow left end*/
+
+	
+/*Navigation overline/underline*/
+
+
+@keyframes underline-expand {
+	0% {width: 0; }
+
+	100% {width: 100%;}
+}
+
+
+
+@keyframes underline-expand-back {
+	0% {width: 100%;}
+
+	100% {width: 0;}
+}
+
+/*Navigation overline/underline end*/
+
+
+/*Picture blurout*/
+
+@keyframes text-blur-out {
+  0% {
+    filter: blur(0.01);
+  }
+  100% {
+    filter: blur(12px) opacity(0%);
+  }
+}
+
+/*Picture blurout end*/
+
+
+/*Pictures rotation*/
+
+@keyframes rotate-in-center {
+  0% {
+    transform: rotate(-360deg);
+    opacity: 0;
+  }
+  100% {
+    transform: rotate(0);
+    opacity: 1;
+  }
+}
+
+/*Pictures rotation end*/
+
+
+
+
+
+
+/*-------KEYFRAMES END--------*/
